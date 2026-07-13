@@ -115,7 +115,7 @@ ollama run llama32-code
 
 ## Ollama Demo
 
-![Ollama Demo](assets/Ollama_test.png)
+![Ollama Demo](assets/Ollama_demo.png)
 
 
 
